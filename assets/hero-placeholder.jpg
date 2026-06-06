@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A1525"/>
+      <stop offset="50%" stop-color="#3B1270"/>
+      <stop offset="100%" stop-color="#E84855" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#g)"/>
+  <text x="960" y="500" font-family="sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF" text-anchor="middle" opacity="0.9">SOUND LAB ACADEMY</text>
+  <text x="960" y="580" font-family="sans-serif" font-size="28" fill="#9B8EC4" text-anchor="middle" letter-spacing="6">HERO IMAGE — 1920×1080</text>
+  <line x1="760" y1="620" x2="1160" y2="620" stroke="#5B21B6" stroke-width="2" opacity="0.4"/>
+</svg>
